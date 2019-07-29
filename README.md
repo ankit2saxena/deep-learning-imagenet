@@ -1,1 +1,1 @@
-# deep_learning_imagenet
+# deep-learning-imagenet
