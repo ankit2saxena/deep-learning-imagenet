@@ -4,7 +4,7 @@ File to store all the project related or global paths/URLs.
 
 PROJECT_DATA_RAW_PATH = "data/raw/"
 PROJECT_DATA_PROCESSED_PATH = "data/processed/"
-PROJECT_DATA_LABELS_FILENAME = "data/imagenet1000_labels.txt"
+PROJECT_DATA_LABELS_FILENAME = "data/imagenet1000_labels"
 PROJECT_MODEL_PATH = "models/"
 PROJECT_REPORTS_PATH = "reports/"
 PROJECT_REPORTS_FIGURES_PATH = 'reports/figures/'
